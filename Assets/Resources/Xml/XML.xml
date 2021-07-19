@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <TalkInfo>
+    <Item Idx="0"  Message="我叫云松，我们村叫葛家村，是这个村子的护卫，最近村子附近有倭寇出没，请勇士出手相助！_驱逐倭寇，责无旁贷！他们的位置在哪？_他们在城堡南面_等我的好消息吧！" FHead="2" SHead="1" Mission="0" />
+    <Item Idx="1"  Message="那帮倭寇已经被我干掉了！_感谢壮士，请问勇士尊姓大名？_在下周正！_感谢周壮士，这有黄金200两，请笑纳！_哈哈哈哈，这多不好意思啊！能再多点吗？" FHead="1" SHead="2" Money="200"/>
+    <Item Idx="2" Message="周壮士，这段时间村子里有狼人出没。有很多人被狼人杀害了，就在昨天村东头的闲汉庞广军，就被狼人刀了。_放心吧，我是预言家，我能查出谁是狼人！_那就谢谢周壮士了_不用客气，把钱准备好就行！！！" FHead="2" SHead="1"  Mission="1"/>
+    <Item Idx="3" Message="狼人已经被我杀了！_周壮士果然厉害！_哈哈哈，没说的，钱呢？_钱本来已经准备好了，但是昨天来了一个叫李涵的女巫，把钱抢跑了！_敢抢我周正的钱，丫是不想活了，她现在在哪里？_她抢完钱就跑了，不知道跑到哪里去了！" FHead="1" SHead="2" Mission="2"/>
+  </TalkInfo>
+  <MissionInfo>
+    <Item Idx="0" Title="消灭倭寇！" Msg="找到并消灭城堡南面的倭寇！" Obj="11"/>
+    <Item Idx="1" Title="消灭狼人！" Msg="找到狼人，并消灭它。" Obj="13"/>
+    <Item Idx="2" Title="抢回黄金！" Msg="找到段玉，夺回被抢走的黄金。" Obj="21"/>
+  </MissionInfo>
+  <GameObjInfo>
+    <Item Idx="0" Name="大还丹" Value="100" Type="Hp" Msg="初级丹药"/>
+    <Item Idx="1" Name="金光丹" Value="200" Type="Hp" Msg="中级丹药" />
+    <Item Idx="2" Name="碧霞丹" Value="500" Type="Hp" Msg=""/>
+    <Item Idx="3" Name="幽云丹" Value="1000" Type="Hp" Msg=""/>
+    <Item Idx="4" Name="还魂丹" Value="2000" Type="Hp" Msg=""/>
+    <Item Idx="5" Name="人参" Value="100" Type="Mp" Msg=""/>
+    <Item Idx="6" Name="灵芝" Value="200" Type="Mp" Msg=""/>
+    <Item Idx="7" Name="育神花" Value="500" Type="Mp" Msg=""/>
+    <Item Idx="8" Name="流光草" Value="1000" Type="Mp" Msg=""/>
+    <Item Idx="9" Name="圣心丹" Value="2000" Type="Mp" Msg=""/>
+    <Item Idx="10" Name="青锋剑" Value="5" Type="Att" Msg=""/>
+    <Item Idx="11" Name="幽华剑" Value="10" Type="Att" Msg=""/>
+    <Item Idx="12" Name="寒霜剑" Value="20" Type="Att" Msg=""/>
+    <Item Idx="13" Name="浮光剑" Value="30" Type="Att" Msg=""/>
+    <Item Idx="14" Name="天一剑" Value="50" Type="Att" Msg=""/>
+    <Item Idx="15" Name="皮甲" Value="5" Type="Mdf" Msg=""/>
+    <Item Idx="16" Name="青铜甲" Value="10" Type="Mdf" Msg=""/>
+    <Item Idx="17" Name="细纹甲" Value="20" Type="Mdf" Msg=""/>
+    <Item Idx="18" Name="金丝甲" Value="30" Type="Mdf" Msg=""/>
+    <Item Idx="19" Name="圣光甲" Value="50" Type="Mdf" Msg=""/>
+    <Item Idx="20" Name="战盔" Value="10" Type="MpX" Msg="精铁打造，威风凛凛。"/>
+    <Item Idx="21" Name="朝天冠" Value="20" Type="MpX" Msg="此冠是著名锻造大师锻玉生前得意制作，坚固无比且冬凉夏暖无比销魂，带上它保你欲仙欲死！！！"/>
+    <Item Idx="22" Name="紫玉冠" Value="30" Type="MpX" Msg="头盔正中镶嵌一个赤色宝玉，有提神醒脑之功效。"/>
+    <Item Idx="23" Name="杀神盔" Value="50" Type="MpX" Msg="相传是战国杀神白起所用之盔 ，盔内蕴藏着白起的魂魄！"/>
+    <Item Idx="24" Name="紫电盔" Value="100" Type="MpX" Msg="传说是盘古开天之时，混沌初开，空中闪电肆虐，盘古大展神通将闪电能量化作这个紫电盔！"/>
+    <Item Idx="25" Name="棉靴" Value="1" Type="Spd" Msg="采用新疆上等棉花制作，保暖透气，轻便舒适。"/>
+    <Item Idx="26" Name="青云履" Value="2" Type="Spd" Msg="附带轻身特性，穿上它使人身轻如燕。"/>
+    <Item Idx="27" Name="腾云靴" Value="3" Type="Spd" Msg="足踏此靴，有腾云驾雾之感。"/>
+    <Item Idx="28" Name="掠影靴" Value="5" Type="Spd" Msg="浮光掠影，岂是一个快字了得！出自锻造大师锻玉之手。"/>
+    <Item Idx="29" Name="登天履" Value="10" Type="Spd" Msg="一步登天，不过如此！"/>
+    <Item Idx="30" Name="木盾" Value="10" Type="Def" Msg="木制简盾。"/>
+    <Item Idx="31" Name="金刚盾" Value="10" Type="Def" Msg="不动金刚，立地为盾！"/>
+    <Item Idx="32" Name="蓝晶盾" Value="10" Type="Def" Msg="采用稀有蓝晶矿石做成的盾，防御力超强！"/>
+    <Item Idx="33" Name="四象盾" Value="10" Type="Def" Msg="传说集合上古四象之力做成的巨盾！"/>
+    <Item Idx="34" Name="蚩尤盾" Value="10" Type="Def" Msg="传说盾牌之内融合这上古魔神蚩尤的魂魄！"/>
+  </GameObjInfo>
+</Root>

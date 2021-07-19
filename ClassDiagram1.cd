@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UITween">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAwCAIAAAAAEAQIAAAAAAIAACACEoQAAAAAEI=</HashCode>
+      <FileName>Assets\CS\UI\UITween.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraCtrl">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAQAIAAAIAAAAAAAAQAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\CS\Camera\CameraCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObj">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAgAAAAAAAAAwAAAAAAAAABACAAAAQAAAAAAgA=</HashCode>
+      <FileName>Assets\CS\Data\GameObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mission">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAABAEAAAAAAAAAAAAAQAAAAAEgA=</HashCode>
+      <FileName>Assets\CS\Data\Mission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TalkData">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAAAgIAAAAAAAAAAAAAAAAAAQAAQAAAAAEgA=</HashCode>
+      <FileName>Assets\CS\Data\TalkData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FadeEffect">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CS\Effect\FadeEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPlayer">
+    <Position X="3.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jAQAJBIgAqAAEAFAEgAEkRQAAMoaiQAAMAAFpgITHkE=</HashCode>
+      <FileName>Assets\CS\Living\MyPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPC">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAgI=</HashCode>
+      <FileName>Assets\CS\Living\NPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="People">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQCAAQAAAAAAAgAAAAAAAAAAAgABKgAAgAAA=</HashCode>
+      <FileName>Assets\CS\Living\People.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwIAAAAEAAAAAAAAAAAAAAAAAAAAgAAAAAAAABQA=</HashCode>
+      <FileName>Assets\CS\Manager\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillBase">
+    <Position X="22.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQCAAIAASAIQAAAAAACQEMAAAABAAAAAAACABAAICI=</HashCode>
+      <FileName>Assets\CS\Skill\SkillBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SphereSkill">
+    <Position X="20.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\CS\Skill\SphereSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StorageSkill">
+    <Position X="22.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CS\Skill\StorageSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StraightSkill">
+    <Position X="25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CS\Skill\StraightSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BagPanel">
+    <Position X="5.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAARCAACIBCAAAQAAAKAAABAAAAAwIIBCAAAAg=</HashCode>
+      <FileName>Assets\CS\UI\Menu\BagPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="7.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAQAAAIAACQAAAAAgAAACAAAACQAEUAAAABAAAAAEAA=</HashCode>
+      <FileName>Assets\CS\UI\Menu\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MissionPanel">
+    <Position X="9.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CS\UI\Menu\MissionPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerPanel">
+    <Position X="12" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAECAAAAAAAAAAQAAIABACACAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\CS\UI\Menu\PlayerPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TalkPanel">
+    <Position X="14.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAACABCAgAAAAAAAACAAAAAAAAAAAAAAAABIEKAA=</HashCode>
+      <FileName>Assets\CS\UI\Menu\TalkPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIBase">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAACAAAEAAAgAMAAAAAAADIQAAAAAABAAA=</HashCode>
+      <FileName>Assets\CS\UI\Menu\UIBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ObjType">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAACAAAAAAAAAAgCAAAAAAAAAAAAAQoA=</HashCode>
+      <FileName>Assets\CS\Data\GameObj.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SkillType">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABI=</HashCode>
+      <FileName>Assets\CS\Skill\SkillBase.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Funback" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CS\UI\UITween.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
